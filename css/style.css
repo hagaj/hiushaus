@@ -10,6 +10,10 @@ a {
     color: var(--main-font-color);
     text-decoration: none;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    border: 1px solid;
+    padding: .5em 1em .5em 1em;
 }
 
 a:hover {
