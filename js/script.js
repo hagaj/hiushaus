@@ -1,6 +1,7 @@
 var sideMenuIsOpen = false;
 
-(function(){
+(function () {
+    "use strict";
     const openParagraph = document.querySelector('.open');
     const closedParagraph = document.querySelector('.closed');
 
